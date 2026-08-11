@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 547 164" width="547" height="164" role="img" aria-label="./wordmark --3d">
+<style>
+  .card-bg { fill: #f2f3f8; stroke: #9aa5ce; }
+  .title-fg { fill: #8990b3; }
+  .fg { fill: #343b58; }
+  .muted { fill: #8990b3; }
+  .accent { fill: #2e5bcd; }
+  .accent2 { fill: #7847bd; }
+  
+  @media (prefers-color-scheme: dark) {
+    .card-bg { fill: #24283b; stroke: #3d59a1; }
+    .title-fg { fill: #565f89; }
+    .fg { fill: #c0caf5; }
+    .muted { fill: #565f89; }
+    .accent { fill: #7aa2f7; }
+    .accent2 { fill: #bb9af7; }
+    @keyframes wmglow{0%,100%{filter:drop-shadow(0 0 2px #7aa2f7)}50%{filter:drop-shadow(0 0 9px #bb9af7)}}.wm-top{animation:wmglow 3.2s ease-in-out infinite;}
+  }
+</style>
+<defs><linearGradient id="wg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7aa2f7"/><stop offset="1" stop-color="#bb9af7"/></linearGradient></defs>
+<rect class="card-bg" x="0.5" y="0.5" width="546" height="163" rx="10" stroke-width="1"/>
+<circle cx="20" cy="17" r="5" fill="#ff5f56"/>
+<circle cx="38" cy="17" r="5" fill="#ffbd2e"/>
+<circle cx="56" cy="17" r="5" fill="#27c93f"/>
+<text class="title-fg" x="274" y="21" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12">dipshant@github: ~ ./wordmark --3d</text>
+<line x1="0" y1="34" x2="547" y2="34" class="card-bg" stroke-width="1" fill="none"/>
+<g transform="translate(0,34)">
+<g transform="translate(27.5,19.5)">
+<text xml:space="preserve" x="0" y="14" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#2e3d5d" textLength="500" lengthAdjust="spacing">██████╗ ██╗██████╗ ███████╗██╗  ██╗ █████╗ ███╗   ██╗████████╗</text>
+<text xml:space="preserve" x="0" y="28" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#2e3d5d" textLength="500" lengthAdjust="spacing">██╔══██╗██║██╔══██╗██╔════╝██║  ██║██╔══██╗████╗  ██║╚══██╔══╝</text>
+<text xml:space="preserve" x="0" y="42" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#2e3d5d" textLength="500" lengthAdjust="spacing">██║  ██║██║██████╔╝███████╗███████║███████║██╔██╗ ██║   ██║   </text>
+<text xml:space="preserve" x="0" y="56" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#2e3d5d" textLength="500" lengthAdjust="spacing">██║  ██║██║██╔═══╝ ╚════██║██╔══██║██╔══██║██║╚██╗██║   ██║   </text>
+<text xml:space="preserve" x="0" y="70" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#2e3d5d" textLength="500" lengthAdjust="spacing">██████╔╝██║██║     ███████║██║  ██║██║  ██║██║ ╚████║   ██║   </text>
+<text xml:space="preserve" x="0" y="84" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#2e3d5d" textLength="500" lengthAdjust="spacing">╚═════╝ ╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   </text>
+</g>
+<g transform="translate(25.8,17.8)">
+<text xml:space="preserve" x="0" y="14" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#4f69a0" textLength="500" lengthAdjust="spacing">██████╗ ██╗██████╗ ███████╗██╗  ██╗ █████╗ ███╗   ██╗████████╗</text>
+<text xml:space="preserve" x="0" y="28" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#4f69a0" textLength="500" lengthAdjust="spacing">██╔══██╗██║██╔══██╗██╔════╝██║  ██║██╔══██╗████╗  ██║╚══██╔══╝</text>
+<text xml:space="preserve" x="0" y="42" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#4f69a0" textLength="500" lengthAdjust="spacing">██║  ██║██║██████╔╝███████╗███████║███████║██╔██╗ ██║   ██║   </text>
+<text xml:space="preserve" x="0" y="56" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#4f69a0" textLength="500" lengthAdjust="spacing">██║  ██║██║██╔═══╝ ╚════██║██╔══██║██╔══██║██║╚██╗██║   ██║   </text>
+<text xml:space="preserve" x="0" y="70" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#4f69a0" textLength="500" lengthAdjust="spacing">██████╔╝██║██║     ███████║██║  ██║██║  ██║██║ ╚████║   ██║   </text>
+<text xml:space="preserve" x="0" y="84" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#4f69a0" textLength="500" lengthAdjust="spacing">╚═════╝ ╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   </text>
+</g>
+<g transform="translate(24,16)" class="wm-top">
+<text xml:space="preserve" x="0" y="14" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="url(#wg)" textLength="500" lengthAdjust="spacing">██████╗ ██╗██████╗ ███████╗██╗  ██╗ █████╗ ███╗   ██╗████████╗</text>
+<text xml:space="preserve" x="0" y="28" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="url(#wg)" textLength="500" lengthAdjust="spacing">██╔══██╗██║██╔══██╗██╔════╝██║  ██║██╔══██╗████╗  ██║╚══██╔══╝</text>
+<text xml:space="preserve" x="0" y="42" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="url(#wg)" textLength="500" lengthAdjust="spacing">██║  ██║██║██████╔╝███████╗███████║███████║██╔██╗ ██║   ██║   </text>
+<text xml:space="preserve" x="0" y="56" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="url(#wg)" textLength="500" lengthAdjust="spacing">██║  ██║██║██╔═══╝ ╚════██║██╔══██║██╔══██║██║╚██╗██║   ██║   </text>
+<text xml:space="preserve" x="0" y="70" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="url(#wg)" textLength="500" lengthAdjust="spacing">██████╔╝██║██║     ███████║██║  ██║██║  ██║██║ ╚████║   ██║   </text>
+<text xml:space="preserve" x="0" y="84" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="url(#wg)" textLength="500" lengthAdjust="spacing">╚═════╝ ╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   </text>
+</g>
+<text class="muted" x="274" y="124" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12">&#47;&#47; software engineer · barcelona</text>
+</g>
+</svg>

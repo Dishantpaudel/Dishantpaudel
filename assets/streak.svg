@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 246" width="860" height="246" role="img" aria-label="./streak --stats">
+<style>
+  .card-bg { fill: #f2f3f8; stroke: #9aa5ce; }
+  .title-fg { fill: #8990b3; }
+  .fg { fill: #343b58; }
+  .muted { fill: #8990b3; }
+  .accent { fill: #2e5bcd; }
+  .accent2 { fill: #7847bd; }
+  .ring-bg{stroke:#8990b3;}.ring{stroke:#2e5bcd;}@keyframes ringdraw{from{stroke-dashoffset:326.7}to{stroke-dashoffset:233.4}}.ring{animation:ringdraw 1.4s ease-out forwards;}
+  @media (prefers-color-scheme: dark) {
+    .card-bg { fill: #24283b; stroke: #3d59a1; }
+    .title-fg { fill: #565f89; }
+    .fg { fill: #c0caf5; }
+    .muted { fill: #565f89; }
+    .accent { fill: #7aa2f7; }
+    .accent2 { fill: #bb9af7; }
+    .ring-bg{stroke:#565f89;}.ring{stroke:#7aa2f7;filter:drop-shadow(0 0 4px #7aa2f7);}@keyframes ringdraw{from{stroke-dashoffset:326.7}to{stroke-dashoffset:233.4}}.ring{animation:ringdraw 1.4s ease-out forwards;}
+  }
+</style>
+
+<rect class="card-bg" x="0.5" y="0.5" width="859" height="245" rx="10" stroke-width="1"/>
+<circle cx="20" cy="17" r="5" fill="#ff5f56"/>
+<circle cx="38" cy="17" r="5" fill="#ffbd2e"/>
+<circle cx="56" cy="17" r="5" fill="#27c93f"/>
+<text class="title-fg" x="430" y="21" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12">dipshant@github: ~ ./streak --stats</text>
+<line x1="0" y1="34" x2="860" y2="34" class="card-bg" stroke-width="1" fill="none"/>
+<g transform="translate(0,34)">
+<text class="fg" x="143" y="100" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="42" font-weight="bold">1,401</text>
+<text class="fg" x="143" y="134" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="14">Total Contributions</text>
+<text class="muted" x="143" y="156" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">since Jan 01, 2022</text>
+<circle class="ring-bg" cx="430" cy="90" r="52" fill="none" stroke-width="8" opacity="0.35"/>
+<circle class="ring" cx="430" cy="90" r="52" fill="none" stroke-width="8" stroke-linecap="round" stroke-dasharray="326.7" stroke-dashoffset="233.4" transform="rotate(-90 430 90)"/>
+<text class="accent" x="430" y="102" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="34" font-weight="bold">2</text>
+<text class="fg" x="430" y="168" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="14">Current Streak</text>
+<text class="muted" x="430" y="188" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">Aug 10 – Aug 11, 2026</text>
+<text class="accent2" x="716" y="100" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="42" font-weight="bold">7</text>
+<text class="fg" x="716" y="134" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="14">Longest Streak</text>
+<text class="muted" x="716" y="156" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">Jul 05 – Jul 11, 2026</text>
+</g>
+</svg>
