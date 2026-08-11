@@ -51,16 +51,9 @@ Everything on this page regenerates itself daily via GitHub Actions.
 
 <div align="center">
 
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&hide_border=true&theme={stats_theme}&rank_icon=github&include_all_commits=true" alt="GitHub stats" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&layout=compact&hide_border=true&theme={stats_theme}&langs_count=8" alt="Top languages" /></td>
-</tr>
-</table>
+<img src="assets/stats.svg" width="860" alt="GitHub stats — regenerated daily" />
 
-<img src="https://streak-stats.demolab.com/?user={username}&theme={streak_theme}&hide_border=true" alt="Contribution streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username={username}&theme={trophy_theme}&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
+<img src="assets/langs.svg" width="860" alt="Most used languages — regenerated daily" />
 
 </div>
 

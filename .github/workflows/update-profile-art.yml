@@ -39,6 +39,8 @@ jobs:
         run: python fetch_contributions.py
 
       - name: Render art
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_PAT || secrets.GITHUB_TOKEN }}
         working-directory: scripts
         run: |
           python prep_photo.py
@@ -47,6 +49,8 @@ jobs:
           python render_heatmap_svg.py
           python generate_streak_svg.py
           python render_weekday_svg.py
+          python render_stats_svg.py
+          python render_langs_svg.py
           python build_readme.py
 
       - name: Commit if changed
