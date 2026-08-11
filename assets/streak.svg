@@ -25,9 +25,9 @@
 <text class="title-fg" x="430" y="21" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12">dipshant@github: ~ ./streak --stats</text>
 <line x1="0" y1="34" x2="860" y2="34" class="card-bg" stroke-width="1" fill="none"/>
 <g transform="translate(0,34)">
-<text class="fg" x="143" y="100" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="42" font-weight="bold">1,401</text>
+<text class="fg" x="143" y="100" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="42" font-weight="bold">1,403</text>
 <text class="fg" x="143" y="134" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="14">Total Contributions</text>
-<text class="muted" x="143" y="156" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">since Jan 01, 2022</text>
+<text class="muted" x="143" y="156" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">since Jul 31, 2022</text>
 <circle class="ring-bg" cx="430" cy="90" r="52" fill="none" stroke-width="8" opacity="0.35"/>
 <circle class="ring" cx="430" cy="90" r="52" fill="none" stroke-width="8" stroke-linecap="round" stroke-dasharray="326.7" stroke-dashoffset="233.4" transform="rotate(-90 430 90)"/>
 <text class="accent" x="430" y="102" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="34" font-weight="bold">2</text>
