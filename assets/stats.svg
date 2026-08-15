@@ -30,7 +30,7 @@
 <text class="accent2" x="322" y="78" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="38" font-weight="bold">5</text>
 <text class="fg" x="322" y="110" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13">Years on GitHub</text>
 <line x1="215" y1="40" x2="215" y2="112" stroke="#565f89" stroke-width="1" opacity="0.3"/>
-<text class="accent" x="537" y="78" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="38" font-weight="bold">1</text>
+<text class="accent" x="537" y="78" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="38" font-weight="bold">2</text>
 <text class="fg" x="537" y="110" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13">Followers</text>
 <line x1="430" y1="40" x2="430" y2="112" stroke="#565f89" stroke-width="1" opacity="0.3"/>
 <text class="accent2" x="752" y="78" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="38" font-weight="bold">1,404</text>
