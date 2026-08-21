@@ -421,6 +421,7 @@
 <rect class="lv1" x="841" y="60" width="11" height="11" rx="2.5"><title>2026-08-18: 1</title></rect>
 <rect class="lv1" x="841" y="75" width="11" height="11" rx="2.5"><title>2026-08-19: 3</title></rect>
 <rect class="lv0" x="841" y="90" width="11" height="11" rx="2.5"><title>2026-08-20: 0</title></rect>
+<rect class="lv0" x="841" y="105" width="11" height="11" rx="2.5"><title>2026-08-21: 0</title></rect>
 <text class="muted" x="38" y="54" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">Mon</text>
 <text class="muted" x="38" y="84" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">Wed</text>
 <text class="muted" x="38" y="114" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">Fri</text>
