@@ -1,7 +1,7 @@
 {
  "user": "Dishantpaudel",
  "source": "graphql",
- "total": 1731,
+ "total": 1732,
  "days": [
   {
    "date": "2022-07-31",
@@ -6177,6 +6177,10 @@
   },
   {
    "date": "2026-10-21",
+   "count": 1
+  },
+  {
+   "date": "2026-10-22",
    "count": 0
   }
  ]
