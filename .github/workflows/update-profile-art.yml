@@ -51,6 +51,9 @@ jobs:
           python render_weekday_svg.py
           python render_stats_svg.py
           python render_langs_svg.py
+          python render_activity_svg.py
+          python render_year_svg.py
+          python render_pipelines_svg.py
           python build_readme.py
 
       - name: Commit if changed
