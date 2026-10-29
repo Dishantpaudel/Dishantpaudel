@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 352" width="860" height="352" role="img" aria-label="./pipelines --show">
+<style>
+  .card-bg { fill: #f2f3f8; stroke: #9aa5ce; }
+  .title-fg { fill: #8990b3; }
+  .fg { fill: #343b58; }
+  .muted { fill: #8990b3; }
+  .accent { fill: #2e5bcd; }
+  .accent2 { fill: #7847bd; }
+  .flow{stroke-width:2;stroke-dasharray:4 4;animation:flow .8s linear infinite}@keyframes flow{to{stroke-dashoffset:-8}}.node{stroke-width:1.2;animation:pulse 3s ease-in-out infinite}@keyframes pulse{50%{stroke-opacity:.45}}.node{fill:#ffffff;stroke:#2e5bcd}.flow{stroke:#7847bd}.arrow-head{fill:#7847bd}
+  @media (prefers-color-scheme: dark) {
+    .card-bg { fill: #24283b; stroke: #3d59a1; }
+    .title-fg { fill: #565f89; }
+    .fg { fill: #c0caf5; }
+    .muted { fill: #565f89; }
+    .accent { fill: #7aa2f7; }
+    .accent2 { fill: #bb9af7; }
+    .node{fill:#1a1b26;stroke:#7aa2f7;filter:drop-shadow(0 0 4px #7aa2f755)}.flow{stroke:#bb9af7}.arrow-head{fill:#bb9af7}
+  }
+</style>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5"
+markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M0,0 L10,5 L0,10 z" class="arrow-head"/></marker></defs>
+<rect class="card-bg" x="0.5" y="0.5" width="859" height="351" rx="10" stroke-width="1"/>
+<circle cx="20" cy="17" r="5" fill="#ff5f56"/>
+<circle cx="38" cy="17" r="5" fill="#ffbd2e"/>
+<circle cx="56" cy="17" r="5" fill="#27c93f"/>
+<text class="title-fg" x="430" y="21" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12">dipshant@github: ~ ./pipelines --show</text>
+<line x1="0" y1="34" x2="860" y2="34" class="card-bg" stroke-width="1" fill="none"/>
+<g transform="translate(0,34)">
+<text class="accent" x="24" y="26" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" font-weight="700">$ voice-ai</text>
+<text class="muted" x="836" y="26" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">32 languages · ~2 s to first audio · fully self-hosted</text>
+<rect class="node" x="24.0" y="40" width="138.4" height="50" rx="8" style="animation-delay:0.00s"/>
+<text class="fg" x="93.2" y="62" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">caller</text>
+<text class="muted" x="93.2" y="78" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">speaks</text>
+<line class="flow" x1="166.4" y1="65.0" x2="186.4" y2="65.0" marker-end="url(#arrow)"/>
+<rect class="node" x="192.4" y="40" width="138.4" height="50" rx="8" style="animation-delay:0.25s"/>
+<text class="fg" x="261.6" y="62" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">speech-to-text</text>
+<text class="muted" x="261.6" y="78" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">Nemotron · Whisper</text>
+<line class="flow" x1="334.8" y1="65.0" x2="354.8" y2="65.0" marker-end="url(#arrow)"/>
+<rect class="node" x="360.8" y="40" width="138.4" height="50" rx="8" style="animation-delay:0.50s"/>
+<text class="fg" x="430.0" y="62" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">LLM</text>
+<text class="muted" x="430.0" y="78" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">self-hosted Qwen</text>
+<line class="flow" x1="503.2" y1="65.0" x2="523.2" y2="65.0" marker-end="url(#arrow)"/>
+<rect class="node" x="529.2" y="40" width="138.4" height="50" rx="8" style="animation-delay:0.75s"/>
+<text class="fg" x="598.4" y="62" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">text-to-speech</text>
+<text class="muted" x="598.4" y="78" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">VoxCPM2</text>
+<line class="flow" x1="671.6" y1="65.0" x2="691.6" y2="65.0" marker-end="url(#arrow)"/>
+<rect class="node" x="697.6" y="40" width="138.4" height="50" rx="8" style="animation-delay:1.00s"/>
+<text class="fg" x="766.8" y="62" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">reply</text>
+<text class="muted" x="766.8" y="78" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">streamed audio</text>
+<text class="accent" x="24" y="128" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" font-weight="700">$ marketsizer</text>
+<text class="muted" x="836" y="128" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">every figure backed by a verbatim quote · 24/26 test markets right</text>
+<rect class="node" x="24.0" y="142" width="110.3" height="50" rx="8" style="animation-delay:0.00s"/>
+<text class="fg" x="79.2" y="164" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">web search</text>
+<text class="muted" x="79.2" y="180" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">SearXNG · Tavily</text>
+<line class="flow" x1="138.3" y1="167.0" x2="158.3" y2="167.0" marker-end="url(#arrow)"/>
+<rect class="node" x="164.3" y="142" width="110.3" height="50" rx="8" style="animation-delay:0.25s"/>
+<text class="fg" x="219.5" y="164" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">fetch pages</text>
+<text class="muted" x="219.5" y="180" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">clean text</text>
+<line class="flow" x1="278.7" y1="167.0" x2="298.7" y2="167.0" marker-end="url(#arrow)"/>
+<rect class="node" x="304.7" y="142" width="110.3" height="50" rx="8" style="animation-delay:0.50s"/>
+<text class="fg" x="359.8" y="164" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">LLM extract</text>
+<text class="muted" x="359.8" y="180" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">Gemini</text>
+<line class="flow" x1="419.0" y1="167.0" x2="439.0" y2="167.0" marker-end="url(#arrow)"/>
+<rect class="node" x="445.0" y="142" width="110.3" height="50" rx="8" style="animation-delay:0.75s"/>
+<text class="fg" x="500.2" y="164" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">quote check</text>
+<text class="muted" x="500.2" y="180" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">verbatim only</text>
+<line class="flow" x1="559.3" y1="167.0" x2="579.3" y2="167.0" marker-end="url(#arrow)"/>
+<rect class="node" x="585.3" y="142" width="110.3" height="50" rx="8" style="animation-delay:1.00s"/>
+<text class="fg" x="640.5" y="164" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">fact-check</text>
+<text class="muted" x="640.5" y="180" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">second LLM</text>
+<line class="flow" x1="699.7" y1="167.0" x2="719.7" y2="167.0" marker-end="url(#arrow)"/>
+<rect class="node" x="725.7" y="142" width="110.3" height="50" rx="8" style="animation-delay:1.25s"/>
+<text class="fg" x="780.8" y="164" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">ledger</text>
+<text class="muted" x="780.8" y="180" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">MongoDB</text>
+<text class="accent" x="24" y="230" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" font-weight="700">$ freedbase</text>
+<text class="muted" x="836" y="230" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">funding data from free public sources · 1,700+ tests</text>
+<rect class="node" x="24.0" y="244" width="110.3" height="50" rx="8" style="animation-delay:0.00s"/>
+<text class="fg" x="79.2" y="266" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">company</text>
+<text class="muted" x="79.2" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">name in</text>
+<line class="flow" x1="138.3" y1="269.0" x2="158.3" y2="269.0" marker-end="url(#arrow)"/>
+<rect class="node" x="164.3" y="244" width="110.3" height="50" rx="8" style="animation-delay:0.25s"/>
+<text class="fg" x="219.5" y="266" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">sources</text>
+<text class="muted" x="219.5" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">news · filings</text>
+<line class="flow" x1="278.7" y1="269.0" x2="298.7" y2="269.0" marker-end="url(#arrow)"/>
+<rect class="node" x="304.7" y="244" width="110.3" height="50" rx="8" style="animation-delay:0.50s"/>
+<text class="fg" x="359.8" y="266" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">LLM extract</text>
+<text class="muted" x="359.8" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">rounds · investors</text>
+<line class="flow" x1="419.0" y1="269.0" x2="439.0" y2="269.0" marker-end="url(#arrow)"/>
+<rect class="node" x="445.0" y="244" width="110.3" height="50" rx="8" style="animation-delay:0.75s"/>
+<text class="fg" x="500.2" y="266" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">source check</text>
+<text class="muted" x="500.2" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">verbatim quote</text>
+<line class="flow" x1="559.3" y1="269.0" x2="579.3" y2="269.0" marker-end="url(#arrow)"/>
+<rect class="node" x="585.3" y="244" width="110.3" height="50" rx="8" style="animation-delay:1.00s"/>
+<text class="fg" x="640.5" y="266" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">merge</text>
+<text class="muted" x="640.5" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">dedupe rounds</text>
+<line class="flow" x1="699.7" y1="269.0" x2="719.7" y2="269.0" marker-end="url(#arrow)"/>
+<rect class="node" x="725.7" y="244" width="110.3" height="50" rx="8" style="animation-delay:1.25s"/>
+<text class="fg" x="780.8" y="266" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">database</text>
+<text class="muted" x="780.8" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">MongoDB · Neo4j</text>
+</g>
+</svg>

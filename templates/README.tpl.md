@@ -40,6 +40,14 @@ Everything on this page regenerates itself daily via GitHub Actions.
 | 🩺 | **Server health dashboard** | Watches every company server live, emails on outages and keeps a "black box" of the minutes before a crash | 4 servers · ~160 containers · 112 tests |
 | 🧠 | **Self-hosted LLMs** | Deployed and tuned local models on our GPU server | Up to 2.4× faster with speculative decoding, at €0 extra cost |
 
+## `dipshant@github:~$ ./pipelines --show`
+
+<div align="center">
+
+<img src="assets/pipelines.svg" width="860" alt="How Voice AI, MarketSizer and Freedbase move data, as animated flow diagrams" />
+
+</div>
+
 ## `dipshant@github:~$ ls ./side-projects`
 
 | Project | Stack | Highlights |
@@ -123,9 +131,11 @@ Everything on this page regenerates itself daily via GitHub Actions.
 
 <img src="assets/streak.svg" width="860" alt="Streak card — regenerated daily" />
 
-<img src="assets/weekday-pulse.svg" width="860" alt="Commits by weekday and weekly sparkline — regenerated daily" />
+<img src="assets/activity.svg" width="860" alt="Daily contributions over the last 90 days, regenerated daily" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username={username}&{graph_query}&hide_border=true&area=true" width="860" alt="Activity graph" />
+<img src="assets/year-review.svg" width="860" alt="Contributions per month over the last 12 months, regenerated daily" />
+
+<img src="assets/weekday-pulse.svg" width="860" alt="Commits by weekday and weekly sparkline — regenerated daily" />
 
 </div>
 
