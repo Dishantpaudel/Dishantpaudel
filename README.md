@@ -52,6 +52,8 @@ Everything on this page regenerates itself daily via GitHub Actions.
 
 | Project | Stack | Highlights |
 |---|---|---|
+| **Barcelona Housing Intelligence** <sub>(private)</sub> | FastAPI · PostgreSQL/PostGIS · Redis · Next.js · Leaflet · Docker | Rental search built around the household (people and budget), not the single listing. 38 sources catalogued, 18 connectors, cross-site duplicate matching, price history, alerts, map and plain-language search |
+| **JobFinder** <sub>(private)</sub> | Python · FastAPI · SQLite · Claude · Docker | Turns ~1,900 job postings into a shortlist with a deterministic matcher, then drafts a tailored CV and cover letter. A Python check flags any number the AI adds that is not in the profile |
 | [**Review Radar**](https://github.com/Dishantpaudel/review-radar) | Python · FastAPI · scikit-learn · MLflow · Docker | Flags negative and urgent reviews. F1 0.903 on 50k reviews, slightly ahead of DistilBERT (0.898), at ~3 ms per review |
 | [**Burnout Predictor**](https://github.com/Dishantpaudel/burnout_predictor) | XGBoost · Optuna · MLflow · SHAP · DVC · FastAPI | Full MLOps lifecycle: tuning, tracking, explainability, data versioning and an API |
 | [**Servd**](https://github.com/Dishantpaudel/Servd_Android) | Kotlin · Jetpack Compose · Room · Firebase | Android app where hospitality staff build a portable, QR-verified rating |

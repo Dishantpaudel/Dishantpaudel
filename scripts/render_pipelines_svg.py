@@ -32,6 +32,22 @@ PIPELINES = [
         ("merge", "dedupe rounds"),
         ("database", "MongoDB · Neo4j"),
     ]),
+    ("barcelona-housing", "rental search built around the household · side project", [
+        ("household", "people · budget"),
+        ("sources", "18 connectors"),
+        ("normalise", "source kept"),
+        ("dedupe", "cross-site match"),
+        ("fit score", "price per person"),
+        ("alerts", "new · price drops"),
+    ]),
+    ("jobfinder", "ranks jobs against a real profile, never invents facts · side project", [
+        ("job APIs", "~1,900 postings"),
+        ("score", "deterministic"),
+        ("shortlist", "best matches"),
+        ("tailor", "Claude"),
+        ("fact check", "no new numbers"),
+        ("CV + letter", "HTML · PDF"),
+    ]),
 ]
 
 
