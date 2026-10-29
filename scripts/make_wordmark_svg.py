@@ -103,7 +103,7 @@ def main():
         layer(rows, ox, oy, 'fill="url(#wg)"', ' class="wm-top"'),
         f'<text class="muted" x="{w / 2:.0f}" y="{content_h - 6}" '
         f'text-anchor="middle" font-family="{MONO}" font-size="12">'
-        f'&#47;&#47; software engineer · barcelona</text>',
+        f'&#47;&#47; ai engineer · barcelona</text>',
     ])
 
     glow = (
