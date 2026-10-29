@@ -48,56 +48,56 @@ markerWidth="6" markerHeight="6" orient="auto-start-reverse">
 <rect class="node" x="697.6" y="40" width="138.4" height="50" rx="8" style="animation-delay:1.00s"/>
 <text class="fg" x="766.8" y="62" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">reply</text>
 <text class="muted" x="766.8" y="78" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">streamed audio</text>
-<text class="accent" x="24" y="128" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" font-weight="700">$ marketsizer</text>
-<text class="muted" x="836" y="128" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">every figure backed by a verbatim quote · 24/26 test markets right</text>
+<text class="accent" x="24" y="128" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" font-weight="700">$ review-radar</text>
+<text class="muted" x="836" y="128" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">F1 0.903 on 50k reviews · ~3 ms per review · side project</text>
 <rect class="node" x="24.0" y="142" width="110.3" height="50" rx="8" style="animation-delay:0.00s"/>
-<text class="fg" x="79.2" y="164" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">web search</text>
-<text class="muted" x="79.2" y="180" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">SearXNG · Tavily</text>
+<text class="fg" x="79.2" y="164" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">review</text>
+<text class="muted" x="79.2" y="180" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">customer text</text>
 <line class="flow" x1="138.3" y1="167.0" x2="158.3" y2="167.0" marker-end="url(#arrow)"/>
 <rect class="node" x="164.3" y="142" width="110.3" height="50" rx="8" style="animation-delay:0.25s"/>
-<text class="fg" x="219.5" y="164" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">fetch pages</text>
-<text class="muted" x="219.5" y="180" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">clean text</text>
+<text class="fg" x="219.5" y="164" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">clean</text>
+<text class="muted" x="219.5" y="180" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">typos · negation</text>
 <line class="flow" x1="278.7" y1="167.0" x2="298.7" y2="167.0" marker-end="url(#arrow)"/>
 <rect class="node" x="304.7" y="142" width="110.3" height="50" rx="8" style="animation-delay:0.50s"/>
-<text class="fg" x="359.8" y="164" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">LLM extract</text>
-<text class="muted" x="359.8" y="180" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">Gemini</text>
+<text class="fg" x="359.8" y="164" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">features</text>
+<text class="muted" x="359.8" y="180" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">TF-IDF n-grams</text>
 <line class="flow" x1="419.0" y1="167.0" x2="439.0" y2="167.0" marker-end="url(#arrow)"/>
 <rect class="node" x="445.0" y="142" width="110.3" height="50" rx="8" style="animation-delay:0.75s"/>
-<text class="fg" x="500.2" y="164" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">quote check</text>
-<text class="muted" x="500.2" y="180" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">verbatim only</text>
+<text class="fg" x="500.2" y="164" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">model</text>
+<text class="muted" x="500.2" y="180" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">logistic regression</text>
 <line class="flow" x1="559.3" y1="167.0" x2="579.3" y2="167.0" marker-end="url(#arrow)"/>
 <rect class="node" x="585.3" y="142" width="110.3" height="50" rx="8" style="animation-delay:1.00s"/>
-<text class="fg" x="640.5" y="164" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">fact-check</text>
-<text class="muted" x="640.5" y="180" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">second LLM</text>
+<text class="fg" x="640.5" y="164" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">threshold</text>
+<text class="muted" x="640.5" y="180" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">profit-optimal</text>
 <line class="flow" x1="699.7" y1="167.0" x2="719.7" y2="167.0" marker-end="url(#arrow)"/>
 <rect class="node" x="725.7" y="142" width="110.3" height="50" rx="8" style="animation-delay:1.25s"/>
-<text class="fg" x="780.8" y="164" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">ledger</text>
-<text class="muted" x="780.8" y="180" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">MongoDB</text>
-<text class="accent" x="24" y="230" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" font-weight="700">$ freedbase</text>
-<text class="muted" x="836" y="230" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">funding data from free public sources · 1,700+ tests</text>
+<text class="fg" x="780.8" y="164" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">flag</text>
+<text class="muted" x="780.8" y="180" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">negative · urgent</text>
+<text class="accent" x="24" y="230" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" font-weight="700">$ burnout-predictor</text>
+<text class="muted" x="836" y="230" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">full MLOps lifecycle on 3,000 records · side project</text>
 <rect class="node" x="24.0" y="244" width="110.3" height="50" rx="8" style="animation-delay:0.00s"/>
-<text class="fg" x="79.2" y="266" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">company</text>
-<text class="muted" x="79.2" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">name in</text>
+<text class="fg" x="79.2" y="266" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">data</text>
+<text class="muted" x="79.2" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">versioned · DVC</text>
 <line class="flow" x1="138.3" y1="269.0" x2="158.3" y2="269.0" marker-end="url(#arrow)"/>
 <rect class="node" x="164.3" y="244" width="110.3" height="50" rx="8" style="animation-delay:0.25s"/>
-<text class="fg" x="219.5" y="266" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">sources</text>
-<text class="muted" x="219.5" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">news · filings</text>
+<text class="fg" x="219.5" y="266" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">model</text>
+<text class="muted" x="219.5" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">XGBoost</text>
 <line class="flow" x1="278.7" y1="269.0" x2="298.7" y2="269.0" marker-end="url(#arrow)"/>
 <rect class="node" x="304.7" y="244" width="110.3" height="50" rx="8" style="animation-delay:0.50s"/>
-<text class="fg" x="359.8" y="266" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">LLM extract</text>
-<text class="muted" x="359.8" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">rounds · investors</text>
+<text class="fg" x="359.8" y="266" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">tuning</text>
+<text class="muted" x="359.8" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">Optuna</text>
 <line class="flow" x1="419.0" y1="269.0" x2="439.0" y2="269.0" marker-end="url(#arrow)"/>
 <rect class="node" x="445.0" y="244" width="110.3" height="50" rx="8" style="animation-delay:0.75s"/>
-<text class="fg" x="500.2" y="266" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">source check</text>
-<text class="muted" x="500.2" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">verbatim quote</text>
+<text class="fg" x="500.2" y="266" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">tracking</text>
+<text class="muted" x="500.2" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">MLflow</text>
 <line class="flow" x1="559.3" y1="269.0" x2="579.3" y2="269.0" marker-end="url(#arrow)"/>
 <rect class="node" x="585.3" y="244" width="110.3" height="50" rx="8" style="animation-delay:1.00s"/>
-<text class="fg" x="640.5" y="266" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">merge</text>
-<text class="muted" x="640.5" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">dedupe rounds</text>
+<text class="fg" x="640.5" y="266" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">explain</text>
+<text class="muted" x="640.5" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">SHAP</text>
 <line class="flow" x1="699.7" y1="269.0" x2="719.7" y2="269.0" marker-end="url(#arrow)"/>
 <rect class="node" x="725.7" y="244" width="110.3" height="50" rx="8" style="animation-delay:1.25s"/>
-<text class="fg" x="780.8" y="266" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">database</text>
-<text class="muted" x="780.8" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">MongoDB · Neo4j</text>
+<text class="fg" x="780.8" y="266" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="600">serve</text>
+<text class="muted" x="780.8" y="282" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">FastAPI</text>
 <text class="accent" x="24" y="332" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" font-weight="700">$ barcelona-housing</text>
 <text class="muted" x="836" y="332" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">rental search built around the household · side project</text>
 <rect class="node" x="24.0" y="346" width="110.3" height="50" rx="8" style="animation-delay:0.00s"/>

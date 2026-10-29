@@ -44,7 +44,7 @@ Everything on this page regenerates itself daily via GitHub Actions.
 
 <div align="center">
 
-<img src="assets/pipelines.svg" width="860" alt="How Voice AI, MarketSizer and Freedbase move data, as animated flow diagrams" />
+<img src="assets/pipelines.svg" width="860" alt="How Voice AI and four side projects move data, as animated flow diagrams" />
 
 </div>
 
