@@ -27,11 +27,11 @@
 <g transform="translate(0,34)">
 <text class="fg" x="24" y="14" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13">commits by weekday</text>
 <text class="muted" x="80" y="40" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">Mon</text>
-<rect class="bar" x="90" y="26" width="211.5" height="18" rx="4" fill="#7aa2f7"/>
-<text class="muted" x="309.5" y="40" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">318</text>
+<rect class="bar" x="90" y="26" width="227.5" height="18" rx="4" fill="#7aa2f7"/>
+<text class="muted" x="325.5" y="40" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">342</text>
 <text class="muted" x="80" y="68" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">Tue</text>
-<rect class="bar" x="90" y="54" width="244.8" height="18" rx="4" fill="#84a0f7"/>
-<text class="muted" x="342.8" y="68" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">368</text>
+<rect class="bar" x="90" y="54" width="245.4" height="18" rx="4" fill="#84a0f7"/>
+<text class="muted" x="343.4" y="68" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">369</text>
 <text class="muted" x="80" y="96" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">Wed</text>
 <rect class="bar" x="90" y="82" width="172.9" height="18" rx="4" fill="#8f9ff7"/>
 <text class="muted" x="270.9" y="96" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">260</text>
