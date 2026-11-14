@@ -27,32 +27,32 @@
 <g transform="translate(0,34)">
 <text class="fg" x="24" y="14" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13">commits by weekday</text>
 <text class="muted" x="80" y="40" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">Mon</text>
-<rect class="bar" x="90" y="26" width="227.5" height="18" rx="4" fill="#7aa2f7"/>
-<text class="muted" x="325.5" y="40" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">342</text>
+<rect class="bar" x="90" y="26" width="223.7" height="18" rx="4" fill="#7aa2f7"/>
+<text class="muted" x="321.7" y="40" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">342</text>
 <text class="muted" x="80" y="68" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">Tue</text>
-<rect class="bar" x="90" y="54" width="248.7" height="18" rx="4" fill="#84a0f7"/>
-<text class="muted" x="346.7" y="68" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">374</text>
+<rect class="bar" x="90" y="54" width="244.7" height="18" rx="4" fill="#84a0f7"/>
+<text class="muted" x="342.7" y="68" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">374</text>
 <text class="muted" x="80" y="96" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">Wed</text>
-<rect class="bar" x="90" y="82" width="188.9" height="18" rx="4" fill="#8f9ff7"/>
-<text class="muted" x="286.9" y="96" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">284</text>
+<rect class="bar" x="90" y="82" width="185.8" height="18" rx="4" fill="#8f9ff7"/>
+<text class="muted" x="283.8" y="96" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">284</text>
 <text class="muted" x="80" y="124" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">Thu</text>
-<rect class="bar" x="90" y="110" width="188.9" height="18" rx="4" fill="#9a9ef7"/>
-<text class="muted" x="286.9" y="124" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">284</text>
+<rect class="bar" x="90" y="110" width="185.8" height="18" rx="4" fill="#9a9ef7"/>
+<text class="muted" x="283.8" y="124" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">284</text>
 <text class="muted" x="80" y="152" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">Fri</text>
 <rect class="bar" x="90" y="138" width="280.0" height="18" rx="4" fill="#a59cf7"/>
-<text class="muted" x="378.0" y="152" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">421</text>
+<text class="muted" x="378.0" y="152" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">428</text>
 <text class="muted" x="80" y="180" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">Sat</text>
-<rect class="bar" x="90" y="166" width="43.9" height="18" rx="4" fill="#b09bf7"/>
-<text class="muted" x="141.9" y="180" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">66</text>
+<rect class="bar" x="90" y="166" width="43.2" height="18" rx="4" fill="#b09bf7"/>
+<text class="muted" x="141.2" y="180" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">66</text>
 <text class="muted" x="80" y="208" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">Sun</text>
-<rect class="bar" x="90" y="194" width="45.2" height="18" rx="4" fill="#bb9af7"/>
-<text class="muted" x="143.2" y="208" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">68</text>
+<rect class="bar" x="90" y="194" width="44.5" height="18" rx="4" fill="#bb9af7"/>
+<text class="muted" x="142.5" y="208" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">68</text>
 <text class="accent" x="24" y="230" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12">→ busiest on Fridays</text>
 <text class="fg" x="470" y="14" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13">weekly contributions · last 12 months</text>
-<polygon points="470.0,190.0 470.0,190.0 476.7,190.0 483.5,190.0 490.2,190.0 496.9,190.0 503.7,190.0 510.4,190.0 517.1,190.0 523.8,190.0 530.6,190.0 537.3,190.0 544.0,190.0 550.8,190.0 557.5,190.0 564.2,190.0 571.0,190.0 577.7,190.0 584.4,190.0 591.2,190.0 597.9,187.5 604.6,175.6 611.3,165.2 618.1,190.0 624.8,190.0 631.5,190.0 638.3,190.0 645.0,189.5 651.7,188.5 658.5,188.5 665.2,185.5 671.9,175.6 678.7,164.7 685.4,165.2 692.1,189.5 698.8,140.3 705.6,40.0 712.3,101.1 719.0,115.0 725.8,63.8 732.5,123.9 739.2,180.6 746.0,172.6 752.7,173.6 759.4,186.0 766.2,169.6 772.9,173.1 779.6,189.5 786.3,177.6 793.1,144.3 799.8,164.2 806.5,188.0 813.3,179.1 820.0,160.2 820.0,190.0" fill="#7aa2f7" opacity="0.18"/>
-<polyline points="470.0,190.0 476.7,190.0 483.5,190.0 490.2,190.0 496.9,190.0 503.7,190.0 510.4,190.0 517.1,190.0 523.8,190.0 530.6,190.0 537.3,190.0 544.0,190.0 550.8,190.0 557.5,190.0 564.2,190.0 571.0,190.0 577.7,190.0 584.4,190.0 591.2,190.0 597.9,187.5 604.6,175.6 611.3,165.2 618.1,190.0 624.8,190.0 631.5,190.0 638.3,190.0 645.0,189.5 651.7,188.5 658.5,188.5 665.2,185.5 671.9,175.6 678.7,164.7 685.4,165.2 692.1,189.5 698.8,140.3 705.6,40.0 712.3,101.1 719.0,115.0 725.8,63.8 732.5,123.9 739.2,180.6 746.0,172.6 752.7,173.6 759.4,186.0 766.2,169.6 772.9,173.1 779.6,189.5 786.3,177.6 793.1,144.3 799.8,164.2 806.5,188.0 813.3,179.1 820.0,160.2" fill="none" stroke="#7aa2f7" stroke-width="2" stroke-linejoin="round" class="spark"/>
-<circle cx="705.6" cy="40.0" r="4" fill="#bb9af7"/>
-<text class="accent2" x="705.6" y="30.0" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">peak 302 · Jul 2026</text>
+<polygon points="470.0,190.0 470.0,190.0 476.7,190.0 483.5,190.0 490.2,190.0 496.9,190.0 503.7,190.0 510.4,190.0 517.1,190.0 523.8,190.0 530.6,190.0 537.3,190.0 544.0,190.0 550.8,190.0 557.5,190.0 564.2,190.0 571.0,190.0 577.7,190.0 584.4,190.0 591.2,187.5 597.9,175.6 604.6,165.2 611.3,190.0 618.1,190.0 624.8,190.0 631.5,190.0 638.3,189.5 645.0,188.5 651.7,188.5 658.5,185.5 665.2,175.6 671.9,164.7 678.7,165.2 685.4,189.5 692.1,140.3 698.8,40.0 705.6,101.1 712.3,115.0 719.0,63.8 725.8,123.9 732.5,180.6 739.2,172.6 746.0,173.6 752.7,186.0 759.4,169.6 766.2,173.1 772.9,189.5 779.6,177.6 786.3,144.3 793.1,164.2 799.8,188.0 806.5,179.1 813.3,160.2 820.0,155.2 820.0,190.0" fill="#7aa2f7" opacity="0.18"/>
+<polyline points="470.0,190.0 476.7,190.0 483.5,190.0 490.2,190.0 496.9,190.0 503.7,190.0 510.4,190.0 517.1,190.0 523.8,190.0 530.6,190.0 537.3,190.0 544.0,190.0 550.8,190.0 557.5,190.0 564.2,190.0 571.0,190.0 577.7,190.0 584.4,190.0 591.2,187.5 597.9,175.6 604.6,165.2 611.3,190.0 618.1,190.0 624.8,190.0 631.5,190.0 638.3,189.5 645.0,188.5 651.7,188.5 658.5,185.5 665.2,175.6 671.9,164.7 678.7,165.2 685.4,189.5 692.1,140.3 698.8,40.0 705.6,101.1 712.3,115.0 719.0,63.8 725.8,123.9 732.5,180.6 739.2,172.6 746.0,173.6 752.7,186.0 759.4,169.6 766.2,173.1 772.9,189.5 779.6,177.6 786.3,144.3 793.1,164.2 799.8,188.0 806.5,179.1 813.3,160.2 820.0,155.2" fill="none" stroke="#7aa2f7" stroke-width="2" stroke-linejoin="round" class="spark"/>
+<circle cx="698.8" cy="40.0" r="4" fill="#bb9af7"/>
+<text class="accent2" x="698.8" y="30.0" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="11">peak 302 · Jul 2026</text>
 <line x1="470" y1="190" x2="820" y2="190" stroke="#565f89" stroke-width="1" opacity="0.5"/>
 <text class="muted" x="470" y="208" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">Nov 2025</text>
 <text class="muted" x="820" y="208" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10">Nov 2026</text>
